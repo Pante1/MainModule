@@ -1,0 +1,3 @@
+[submodule "MainModuleOberOrdner/Submodule"]
+	path = MainModuleOberOrdner/Submodule
+	url = https://github.com/Pante1/Submodule.git
